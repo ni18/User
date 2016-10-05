@@ -1,0 +1,4 @@
+ParseObject custom=new ParseObject("User");
+custom.put("name","Nirav");
+custom.put("email","nirav22@gmail.com");
+custom.saveInBackground();
